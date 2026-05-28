@@ -1,0 +1,21 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.hasTag("books")
+    order:
+      - file.name
+      - tags
+    image: note.banner
+  - type: cards
+    name: Learning how to learn
+    filters:
+      and:
+        - file.hasTag("Metalearning")
+    order:
+      - file.name
+      - tags
+      - banner
+    cardSize: 450
+    image: note.banner
