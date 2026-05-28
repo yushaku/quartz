@@ -1,3 +1,82 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Override quartz-themes font
+:root {
+  --headerFont: "Be Vietnam Pro", sans-serif !important;
+  --bodyFont: "Be Vietnam Pro", sans-serif !important;
+}
+
+// Match list color to body text (anuppuccin uses --ctp-text for p but not li)
+li,
+p {
+  color: rgb(var(--ctp-gray)) !important;
+}
+
+strong {
+  color: rgb(var(--ctp-green)) !important;
+}
+
+i {
+  color: rgb(var(--ctp-blue)) !important;
+}
+
+// Heading colors synced with anuppuccin (Catppuccin palette)
+h1 {
+  padding-top: 1rem;
+}
+
+h2 {
+  color: rgb(var(--ctp-mauve)) !important;
+  padding-top: 1rem;
+}
+
+h3 {
+  color: rgb(var(--ctp-blue)) !important;
+  padding-top: 1rem;
+}
+
+h4 {
+  color: rgb(var(--ctp-sky)) !important;
+}
+
+.breadcrumb-element {
+  color: rgb(var(--text-muted)) !important;
+  font-size: small !important;
+}
+
+.toc-header{
+  font-size: 14px !important;
+}
+
+.toc-content {
+  font-size: small !important;
+}
+
+// Hide the comma separator between note property tags
+span.note-properties-separator {
+  opacity: 0 !important;
+}
+
+// Hide content meta line (date + reading time)
+p.content-meta {
+  opacity: 0 !important;
+}
+
+// Inline code color (avoid overriding Shiki/fenced code blocks)
+code:not([data-theme]) {
+  color: rgba(246, 177, 30, 1) !important;
+}
+
+// Tag list: remove bullet points
+ul.tags {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+// Bases cards: fix cover image height
+.base-card-image > img {
+  height: 300px !important;
+  width: 100% !important;
+  object-fit: cover !important;
+}
