@@ -1,4 +1,5 @@
 ---
+banner: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147506161/images/b7f3d10-7b0d-c8a5-ed22-1e465caf6d1_72225849-8792-40fe-b100-76af24d20b00.png
 parents:
   - "[[Biology.canvas]]"
   - "[[Metalearning.canvas]]"

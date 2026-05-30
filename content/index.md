@@ -16,10 +16,10 @@ Mình là **Yushaku** - 1 dev quèn tò mò về nhiều thứ trên đời và 
 
 Trình là gì? mà trình ai trấm? Mình không có trình nên không dạy được ai cả, ai hữu duyên đi qua xem cho vui, không vui thì chờ khi nào vui thì xem!!! 🤡
 
-## Bản đồ nội dung
+## Map of contents
 
 - [[Buddhism.canvas|Buddhism]]
 - [[Metalearning.canvas|Learning how to learn]]
 - [[Psychology.canvas|Psychology]]
-- [[BOOKSHELF.base|BOOKSHELF]]: những cuốn đang đọc / đã đọc / sẽ đọc.
+- [[BOOKSHELF.base|Bookshelf]]: những cuốn đang đọc / đã đọc / sẽ đọc.
 

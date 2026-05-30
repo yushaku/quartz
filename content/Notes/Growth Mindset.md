@@ -4,6 +4,7 @@ parents:
 tags:
   - Metalearning
 publish: "true"
+banner: https://www.innovationtraining.org/wp-content/uploads/2024/04/Growth-Mindset-Infographic.jpeg
 ---
 
 > [!NOTE]

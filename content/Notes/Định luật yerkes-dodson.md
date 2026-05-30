@@ -5,6 +5,7 @@ parents:
 tags:
   - Metalearning
 publish: "true"
+banner: https://img.freepik.com/vector-cao-cap/dinh-luat-yerkes-dodson-ve-hung-phan_518018-3111.jpg
 ---
 
 ## Yerkes-dodson

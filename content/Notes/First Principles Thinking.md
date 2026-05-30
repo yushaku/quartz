@@ -7,10 +7,13 @@ tags:
 sources:
   - https://fs.blog/first-principles/
 publish: "true"
+banner: https://i.pinimg.com/736x/12/7c/c9/127cc9cc22194237728dae6980a560b7.jpg
 ---
 
 > [!NOTE]
 > **First Principles Thinking** là phương pháp tư duy phá vỡ mọi vấn đề xuống đến **những sự thật không thể tranh cãi** -> rồi xây dựng lại lập luận từ nền tảng đó thay vì kế thừa những gì người khác đã nghĩ.
+
+![](https://i.pinimg.com/736x/12/7c/c9/127cc9cc22194237728dae6980a560b7.jpg)
 
 ## First Principles vs Reasoning by Analogy
 

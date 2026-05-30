@@ -16,6 +16,8 @@ views:
     order:
       - file.name
       - tags
-      - banner
-    cardSize: 450
+    sort:
+      - property: file.ctime
+        direction: DESC
+    cardSize: 250
     image: note.banner
