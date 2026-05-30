@@ -144,6 +144,11 @@ plugins:
     enabled: true
   - source: github:quartz-community/canvas-page
     enabled: true
+    options:
+      enableInteraction: true
+      initialZoom: 1
+      minZoom: 0.1
+      maxZoom: 5
   - source: github:quartz-community/content-page
     enabled: true
   - source: github:quartz-community/folder-page
@@ -157,8 +162,31 @@ plugins:
       priority: 50
   - source: github:quartz-community/graph
     enabled: true
+    options:
+      localGraph:
+        repelForce: 0.75
+        centerForce: 0.3
+        linkDistance: 40
+        depth: 1
+        showTags: false
+        nodeColorCurrent: "#cba6f7"
+        nodeColorVisited: "#94e2d5"
+        nodeColorDefault: "#6c7086"
+        linkColorActive: "#585b70"
+        linkColorInactive: "#313244"
+      globalGraph:
+        repelForce: 0.6
+        centerForce: 0.2
+        linkDistance: 35
+        depth: -1
+        showTags: false
+        nodeColorCurrent: "#cba6f7"
+        nodeColorVisited: "#94e2d5"
+        nodeColorDefault: "#6c7086"
+        linkColorActive: "#585b70"
+        linkColorInactive: "#313244"
     layout:
-      position: bottom
+      position: afterBody
       priority: 10
   - source: github:quartz-community/search
     enabled: true
@@ -243,12 +271,15 @@ plugins:
   - source: github:quartz-community/note-properties
     enabled: true
     options:
-      includeAll: false
-      includedProperties:
-        - description
-        - tags
-        - aliases
-      excludedProperties: []
+      includeAll: true
+      excludedProperties:
+        - publish
+        - enableToc
+        - image
+        - repository
+        - modified
+        - created
+        - title
       hidePropertiesView: false
       delimiters: ---
       language: yaml
@@ -294,5 +325,15 @@ layout:
         - reader-mode
       positions:
         right: []
-    canvas: {}
+    canvas:
+      exclude:
+        - reader-mode
+        - breadcrumbs
+        - note-properties
+        - article-title
+        - content-meta
+      positions:
+        beforeBody: []
+        right: []
+        afterBody: []
     bases: {}
