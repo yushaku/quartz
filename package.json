@@ -20,7 +20,7 @@
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts",
-    "sync-vault": "npx tsx ./scripts/sync-vault.ts",
+    "sync": "npx tsx ./scripts/sync-vault.ts",
     "prebuild": "npm run install-plugins && npm run sync-vault"
   },
   "engines": {

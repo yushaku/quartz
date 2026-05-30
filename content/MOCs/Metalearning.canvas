@@ -155,9 +155,9 @@
 			"id": "0c75a600f2d3b506",
 			"type": "text",
 			"text": "[[Extreme Ownership]]\n",
-			"x": -693,
+			"x": -697,
 			"y": -740,
-			"width": 193,
+			"width": 202,
 			"height": 60
 		},
 		{
@@ -173,18 +173,9 @@
 			"id": "aa0013",
 			"type": "text",
 			"text": "[[Growth Mindset]]",
-			"x": -769,
+			"x": -800,
 			"y": -928,
-			"width": 173,
-			"height": 60
-		},
-		{
-			"id": "63dda7c333976ce5",
-			"type": "text",
-			"text": "# **🌱** Mindset",
-			"x": -672,
-			"y": -588,
-			"width": 151,
+			"width": 204,
 			"height": 60
 		},
 		{
@@ -548,6 +539,15 @@
 			"width": 250,
 			"height": 60,
 			"color": "4"
+		},
+		{
+			"id": "63dda7c333976ce5",
+			"type": "text",
+			"text": "# **🌱** Mindset",
+			"x": -697,
+			"y": -583,
+			"width": 202,
+			"height": 60
 		}
 	],
 	"edges": [
