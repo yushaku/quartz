@@ -10,15 +10,6 @@
 			"height": 240
 		},
 		{
-			"id": "597b5d48e4f33dcc",
-			"type": "text",
-			"text": "[[Illusion of Competence]]",
-			"x": -980,
-			"y": 589,
-			"width": 208,
-			"height": 60
-		},
-		{
 			"id": "8ddfd87711eea5fe",
 			"type": "text",
 			"text": "## Cơ chế Suy nghiệm",
@@ -33,7 +24,7 @@
 			"text": "[[Peak-End Rule]]",
 			"x": 1180,
 			"y": -180,
-			"width": 160,
+			"width": 220,
 			"height": 60
 		},
 		{
@@ -42,7 +33,7 @@
 			"text": "[[Duration neglect]]",
 			"x": 1180,
 			"y": -70,
-			"width": 160,
+			"width": 220,
 			"height": 60
 		},
 		{
@@ -164,18 +155,18 @@
 			"id": "db07cd3af7d3bd2b",
 			"type": "text",
 			"text": "[[Halo Effect]]",
-			"x": -910,
+			"x": -960,
 			"y": -256,
-			"width": 200,
+			"width": 250,
 			"height": 60
 		},
 		{
 			"id": "6e0491b98ec951f0",
 			"type": "text",
 			"text": "[[Angchoring Effect]]",
-			"x": -910,
+			"x": -960,
 			"y": -183,
-			"width": 200,
+			"width": 250,
 			"height": 50
 		},
 		{
@@ -183,9 +174,9 @@
 			"type": "text",
 			"text": "[[Confirmation Bias]]",
 			"styleAttributes": {},
-			"x": -910,
+			"x": -960,
 			"y": -113,
-			"width": 200,
+			"width": 250,
 			"height": 50
 		},
 		{
@@ -193,28 +184,18 @@
 			"type": "text",
 			"text": "[[Sunk Cost Fallacy]]\n\n",
 			"styleAttributes": {},
-			"x": -910,
+			"x": -960,
 			"y": -53,
-			"width": 200,
+			"width": 250,
 			"height": 50
 		},
 		{
 			"id": "907bb0190c19f67e",
 			"type": "text",
-			"text": "[[Farming Effect]]",
-			"x": -910,
+			"text": "[[Framing Effect|Framing Bias]]",
+			"x": -960,
 			"y": 7,
-			"width": 200,
-			"height": 50
-		},
-		{
-			"id": "e1327228108ca8d7",
-			"type": "text",
-			"text": "[[Loss Aversion]]\n",
-			"styleAttributes": {},
-			"x": -972,
-			"y": 482,
-			"width": 200,
+			"width": 250,
 			"height": 50
 		},
 		{
@@ -230,9 +211,9 @@
 			"id": "4f5974b4ac55b949",
 			"type": "text",
 			"text": "[[hiệu ứng chim mồi]]",
-			"x": -910,
+			"x": -960,
 			"y": -433,
-			"width": 200,
+			"width": 250,
 			"height": 60
 		},
 		{
@@ -304,6 +285,25 @@
 			"text": "## Empathy",
 			"x": 280,
 			"y": 1291,
+			"width": 250,
+			"height": 60
+		},
+		{
+			"id": "e1327228108ca8d7",
+			"type": "text",
+			"text": "[[Loss Aversion]]\n",
+			"styleAttributes": {},
+			"x": -960,
+			"y": 482,
+			"width": 250,
+			"height": 50
+		},
+		{
+			"id": "597b5d48e4f33dcc",
+			"type": "text",
+			"text": "[[Illusion of Competence]]",
+			"x": -960,
+			"y": 589,
 			"width": 250,
 			"height": 60
 		}

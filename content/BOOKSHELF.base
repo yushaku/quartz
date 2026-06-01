@@ -6,7 +6,6 @@ views:
         - file.hasTag("books")
     order:
       - file.name
-      - tags
     image: note.banner
   - type: cards
     name: Learning how to learn

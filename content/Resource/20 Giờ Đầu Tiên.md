@@ -8,7 +8,7 @@ sources:
   - https://youtu.be/5MgBikgcWnY?list=PL0_4DUZB2GuUdTk0JHFJJZA71XNLBeXIr
 banner: https://sachhoc.com/image/catalog/Chuyennganh/Ky-nang/20-gio-dau-tien-cach-hoc-nhanh-bat-cu-thu-gi-ebook.jpg
 author: "[[TED]]"
-publish: "true"
+publish: true
 ---
 
 > [!NOTE]

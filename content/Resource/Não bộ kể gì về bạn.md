@@ -6,7 +6,7 @@ tags:
 banner: https://images.spiderum.com/sp-images/8f4e4740efe311edb7a9b9ddb4b98f54.jpeg
 sources:
   - https://spiderum.com/bai-dang/Tom-tat-Sach-Nao-bo-ke-gi-ve-ban-David-Eagleman-33itHsUD23NI
-publish: "true"
+publish: true
 ---
 Đã bao giờ bạn tự hỏi, khối vật chất nặng 1,4 kg chiếm chưa đến 3% trọng lượng trung bình của cơ thể nhưng lại tiêu hao đến tận 20% năng lượng do cơ thể nạp vào, mang tên "não bộ", có ý nghĩa gì trong cuộc sống bạn không?
 

@@ -4,9 +4,9 @@ parents:
 tags:
   - Metalearning
 source: https://www.youtube.com/watch?v=l6qHDQk826M
-publish: "true"
+publish: true
 ---
-Video chia sẻ về **tư duy thử nghiệm** – một cách suy nghĩ và hành động giúp con người giải tỏa áp lực phải "chọn đúng" nghề nghiệp, con đường hay đam mê duy nhất trong cuộc đời. ==Thay vì xem cuộc đời như một đường thẳng với mục tiêu cố định, ta được khuyến khích coi bản thân là nhà khoa học và cuộc đời là phòng thí nghiệm, nơi mọi trải nghiệm là những thí nghiệm nhỏ nhằm khám phá điều phù hợp nhất với mình.==
+**Tư duy thử nghiệm**: một cách suy nghĩ và hành động giúp con người giải tỏa áp lực phải "chọn đúng" nghề nghiệp, con đường hay đam mê duy nhất trong cuộc đời. ==Thay vì xem cuộc đời như một đường thẳng với mục tiêu cố định, ta được khuyến khích coi bản thân là nhà khoa học và cuộc đời là phòng thí nghiệm, nơi mọi trải nghiệm là những thí nghiệm nhỏ nhằm khám phá điều phù hợp nhất với mình.==
 
 <iframe width="100%" height="422" src="https://www.youtube.com/embed/l6qHDQk826M" title="Experimental mindset: Tư duy thay đổi cuộc đời mình" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -16,18 +16,21 @@ Video chia sẻ về **tư duy thử nghiệm** – một cách suy nghĩ và h�
 > **Tư duy thử nghiệm**: Là tư duy xem cuộc đời như một chuỗi các thí nghiệm, nơi không có khái niệm “làm sai” mà chỉ có thu thập dữ liệu để điều chỉnh và thử tiếp. Thay vì áp lực phải chọn đúng con đường ngay từ đầu, ta học hỏi qua từng bước thử nghiệm.
 
 **Ba kịch bản khuôn mẫu cần loại bỏ**:  
-1. **Theo quá khứ:** Tiếp tục con đường cũ chỉ vì đã quen, ví dụ làm nghề đã học dù không thích.  
+1. **Theo quá khứ:** Tiếp tục con đường cũ chỉ vì đã quen, ví dụ làm nghề đã học dù ghét nó. 
 2. **Theo đám đông:** Chọn nghề hoặc lối sống vì xã hội, gia đình mong muốn, không phải từ đam mê cá nhân.  
 3. **Theo đuổi đam mê:** Đây cũng là bẫy vì có thể chưa biết đam mê thật sự và đam mê có thể thay đổi theo thời gian.
 
-=> Những kịch bản này cùng chung một điểm là tạo ra **nỗi sợ thay đổi**, khiến con người ngại thử nghiệm, ngại đi lệch khỏi “kịch bản” đã được lập trình.
+=> Những kịch bản này đều tạo ra **nỗi sợ thay đổi**, khiến con người ngại thử nghiệm, ngại đi lệch khỏi “kịch bản” đã được lập trình.
 
 > [!quote]
-> *"We don't go in circles. We grow in circles."* – Không đi vòng tròn, mà lớn lên theo vòng xoáy.  
+> *"We don't go in circles. We grow in circles."* 
+>  
+![[Pasted image 20260601171126.png]]
 
 ### Phương Pháp Áp Dụng Tư Duy Thực Nghiệm
 
-Thay vì hỏi “đây có phải con đường đúng không?”, tư duy này đặt câu hỏi: *Mình sẽ học được gì từ việc thử cái này?*
+Thay vì hỏi *đây có phải con đường đúng không?*,
+tư duy này đặt câu hỏi: *Mình sẽ học được gì từ việc thử cái này?*
 
 - Bạn không cần ép bản thân phải khớp với bất kỳ hình mẫu cố định nào, mà được phép đi lệch kịch bản, có nhiều đam mê, và tiến về phía trước dù chưa biết đích đến cụ thể.
 - Một lo ngại thường gặp là “làm thử nghiệm tốn kém thời gian, sức lực và tiền bạc”, nhưng tác giả nhấn mạnh rằng thử nghiệm không cần phức tạp hay đắt đỏ mà có thể là **Tiny Experiments** – những thí nghiệm nhỏ với chi phí thấp, rủi ro nhỏ, nhưng mang lại dữ liệu giá trị.
@@ -64,11 +67,6 @@ Vòng lặp tăng trưởng gồm hai phần:
 - **Error:** quan sát kết quả, điều chỉnh dựa trên dữ liệu thu thập được
 
 **Ví dụ** từ chính tác giả: áp dụng vòng lặp này trong quá trình thử viết nhạc 3 tháng, ghi chép lại cảm xúc và nhận ra rằng mình không thực sự muốn làm ca sĩ chuyên nghiệp mà thích đóng gói kiến thức, cảm xúc thành nội dung chiều sâu.
-
-> [!quote]
-> *We don’t go in circles. We grow in circles*
-> 
-> chúng ta không đi lòng vòng mà lớn lên qua từng vòng xoáy thử nghiệm, suy ngẫm.
 
 Để thực hành suy ngẫm, tác giả giới thiệu công cụ **Plus – Minus – Next**:
 - `Plus`: những điều làm tốt, thành tựu nhỏ

@@ -161,7 +161,7 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     options:
       localGraph:
         repelForce: 0.75
@@ -280,6 +280,7 @@ plugins:
         - modified
         - created
         - title
+        - banner
       hidePropertiesView: false
       delimiters: ---
       language: yaml

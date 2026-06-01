@@ -8,7 +8,7 @@ sources:
   - https://doi.org/10.1037/0022-3514.74.5.1252
 aliases:
   - Mệt mỏi quyết định
-publish: "true"
+publish: true
 ---
 
 > [!NOTE]

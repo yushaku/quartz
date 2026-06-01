@@ -8,7 +8,7 @@ sources:
 author: https://jamesclear.com
 aliases:
   - Thói quen nguyên tử
-publish: "true"
+publish: true
 ---
 
 ## Atomic Habits
