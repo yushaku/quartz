@@ -64,7 +64,7 @@ Não vẫn dùng lo âu như công cụ thúc đẩy — nhưng giờ nó thúc 
 ## Liên hệ
 
 - **[[Procrastination]]** — immediate vs. delayed return là cơ chế tiến hóa nền tảng giải thích tại sao procrastination tồn tại
-- **[[Temporal Motivation Theory]]** — Delay trong công thức TMT chính là hậu quả trực tiếp của Delayed Return: não discount mạnh phần thưởng xa
+- **[[Notes/Temporal Motivation Theory]]** — Delay trong công thức TMT chính là hậu quả trực tiếp của Delayed Return: não discount mạnh phần thưởng xa
 - **[[Dopamine]]** — hệ thống dopamine được thiết kế để reward hành vi immediate; delayed reward kích hoạt ít dopamine hơn nhiều
 - **[[Thói quen]]** — xây thói quen = tạo ra immediate reward (cảm giác hoàn thành, streak) cho hành vi có lợi ích delayed
 - **[[Focused mode và diffuse mode]]** — khó duy trì focused mode một phần vì não liên tục tìm kiếm immediate reward từ distraction

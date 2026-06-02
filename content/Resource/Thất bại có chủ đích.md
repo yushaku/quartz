@@ -7,7 +7,7 @@ tags:
 sources:
   - https://notegpt.io/detail?id=WaiHKOV__xk&utm_source=youtube-video-summarizer
   - https://www.youtube.com/watch?v=WaiHKOV__xk&t=1s
-publish: "true"
+publish: true
 ---
 
 ## Tóm tắt

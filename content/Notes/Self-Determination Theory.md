@@ -8,7 +8,7 @@ sources:
 aliases:
   - SDT
   - Lý thuyết tự quyết
-publish: "true"
+publish: true
 ---
 
 > [!NOTE]

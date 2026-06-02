@@ -4,7 +4,7 @@ parents:
   - "[[Metalearning.canvas]]"
 tags:
   - Metalearning
-publish: "true"
+publish: true
 ---
 
 > [!NOTE]

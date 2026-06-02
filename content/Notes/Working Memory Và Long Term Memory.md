@@ -3,7 +3,7 @@ parents:
   - "[[Metalearning.canvas]]"
 tags:
   - Metalearning
-publish: "true"
+publish: true
 ---
 
 Có nhiều cách để phân loại bộ nhớ của chúng ta. Nhưng trong khuôn khổ khoá học này, ta sẽ nói về hai phần chính đó là working memory và long term memory.

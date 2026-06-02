@@ -4,7 +4,7 @@ parents:
 tags:
   - Metalearning
   - Synthesis
-publish: "true"
+publish: true
 ---
 > [!NOTE]
 > Ba lý thuyết: [[Self-Determination Theory|SDT]], [[Self-Efficacy]], [[The Progress Principle|Progress Principle]] — được xây dựng độc lập, từ các nhóm nghiên cứu khác nhau, trên các câu hỏi khác nhau. Nhưng khi đặt cạnh nhau, chúng hội tụ về **cùng một bộ cơ chế**. Đây là những điểm chung đó.

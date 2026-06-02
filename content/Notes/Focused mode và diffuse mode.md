@@ -3,7 +3,7 @@ parents:
   - "[[Metalearning.canvas]]"
 tags:
   - Metalearning
-publish: "true"
+publish: true
 ---
 
 Con người chúng ta có hai chế độ suy nghĩ khác nhau:

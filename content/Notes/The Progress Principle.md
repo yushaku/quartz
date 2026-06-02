@@ -7,7 +7,7 @@ sources:
   - https://hbr.org/2011/05/the-power-of-small-wins
 aliases:
   - Progress Principle
-publish: "true"
+publish: true
 ---
 
 > [!NOTE]

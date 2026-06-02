@@ -4,7 +4,7 @@ parents:
   - "[[Biology.canvas]]"
 tags:
   - Metalearning
-publish: "true"
+publish: true
 banner: https://img.freepik.com/vector-cao-cap/dinh-luat-yerkes-dodson-ve-hung-phan_518018-3111.jpg
 ---
 

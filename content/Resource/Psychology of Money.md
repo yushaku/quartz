@@ -7,7 +7,7 @@ sources:
   - https://learn-anything.vn/kien-thuc/sach-hay/tom-tat-sach-tam-ly-hoc-ve-tien-psychology-of-money
 parents:
   - "[[Psychology.canvas]]"
-publish: "true"
+publish: true
 ---
 
 ## Chương 1: Không Ai Điên Cả

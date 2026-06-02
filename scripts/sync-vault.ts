@@ -163,9 +163,10 @@ async function sync() {
     }
 
     // file mới hoặc đã thay đổi
+    const isPublished = parseFrontmatter(fs.readFileSync(absPath, "utf-8"))["publish"]
     const shouldSync = whitelistFiles.has(absPath) || isWhitelisted(rel, whitelistDirs)
       ? true
-      : parseFrontmatter(fs.readFileSync(absPath, "utf-8"))["publish"] === true
+      : (isPublished || isPublished === 'true')
 
     if (shouldSync) {
       fs.mkdirSync(path.dirname(dest), { recursive: true })

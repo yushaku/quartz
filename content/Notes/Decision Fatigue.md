@@ -8,6 +8,7 @@ sources:
   - https://doi.org/10.1037/0022-3514.74.5.1252
 aliases:
   - Mệt mỏi quyết định
+  - Ego Depletion
 publish: true
 ---
 
@@ -140,7 +141,7 @@ Mỗi lựa chọn bạn loại bỏ khỏi ngày = thêm ngân sách cho quyế
 ## Liên hệ
 
 - **[[Energy Management]]**: decision fatigue là biểu hiện trực tiếp của cognitive energy cạn kiệt
-- **[[Temporal Motivation Theory]]**: Impulsiveness (Γ) trong công thức TMT tăng cao khi decision fatigue: não fatigued discount delay nặng hơn và chọn reward tức thì
+- **[[Notes/Temporal Motivation Theory]]**: Impulsiveness (Γ) trong công thức TMT tăng cao khi decision fatigue: não fatigued discount delay nặng hơn và chọn reward tức thì
 - **[[Immediate and delayed Return Environment]]**: fatigue đẩy não về chế độ Immediate Return: chọn thứ dễ chịu ngay, bỏ qua mục tiêu dài hạn
 - **[[Procrastination]]**: avoidance là một trong 3 lối thoát của decision fatigue; nhiều "procrastination" thực ra là não từ chối quyết định vì hết ngân sách
 - **[[Thói quen]]**: thói quen = zero decision cost; xây thói quen tốt = giải phóng ngân sách nhận thức cho quyết định không thể routine hóa

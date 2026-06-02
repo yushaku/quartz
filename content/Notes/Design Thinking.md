@@ -6,7 +6,7 @@ tags:
   - Problem_solving
 sources:
   - IDEO / Stanford d.school
-publish: "true"
+publish: true
 ---
 
 > [!NOTE]

@@ -6,7 +6,7 @@ tags:
   - Philosophy/stoic
 sources:
   - https://fs.blog/first-principles/
-publish: "true"
+publish: true
 banner: https://i.pinimg.com/736x/12/7c/c9/127cc9cc22194237728dae6980a560b7.jpg
 ---
 

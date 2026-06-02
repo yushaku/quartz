@@ -6,7 +6,7 @@ tags:
 sources:
   - https://tuanmon.com/nguyen-tac-co-ban-zettelkasten/
 banner: https://sii.pl/blog/wp-content/uploads/2023/08/Zdjecie-2-Zettelkasten-Luhmanna.jpg
-publish: "true"
+publish: true
 ---
 
 > [!NOTE]

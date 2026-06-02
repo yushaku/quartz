@@ -5,7 +5,7 @@ tags:
 sources:
   - https://notebooklm.google.com/notebook/d09cdfc2-38ee-47a8-a16f-ca5e72c5104c
 banner: https://m.media-amazon.com/images/I/81vEQ9rFgKL._AC_UF1000,1000_QL80_.jpg
-publish: "true"
+publish: true
 ---
 
 Nội dung cuốn sách thách thức quan điểm phổ biến về việc "theo đuổi đam mê", cho rằng lời khuyên này có thể dẫn đến sự bất mãn và những quyết định nghề nghiệp sai lầm. 

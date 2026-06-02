@@ -16,12 +16,12 @@ Mình là **Yushaku** - 1 dev quèn tò mò về nhiều thứ trên đời và 
 
 Trình là gì? mà trình ai trấm? Mình không có trình nên không dạy được ai cả, ai hữu duyên đi qua xem cho vui, không vui thì chờ khi nào vui thì xem!!! 🤡
 
-## human live
+## Human live
 
-- [[Buddhism.canvas|Buddhism]]
-- [[Metalearning.canvas|Learning how to learn]]
-- [[Psychology.canvas|Psychology]]
-- [[BOOKSHELF.base|Bookshelf]]: những cuốn đang đọc / đã đọc / sẽ đọc.
+- [[Buddhism.canvas|Buddhism]]: a di đà phật
+- [[Metalearning.canvas|Learning how to learn]]: tôi vừa ngu vừa lười nên đi tìm cách học sao cho giỏi nhưng bỏ ít công sức nhất.
+- [[Psychology.canvas|Psychology]]: tôi tìm hiểu về tâm lý học để đi 'thao túng' người khác.
+- [[BOOKSHELF.base|Bookshelf]]: giả vờ đọc sách cho có vẻ tri thức 😌.
 
 ## Dev live
 

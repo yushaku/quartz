@@ -7,7 +7,7 @@ sources:
   - https://www.simplypsychology.org/self-efficacy.html
 aliases:
   - Niềm tin năng lực bản thân
-publish: "true"
+publish: true
 ---
 
 > [!NOTE]

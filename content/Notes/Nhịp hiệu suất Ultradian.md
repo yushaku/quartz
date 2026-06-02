@@ -7,7 +7,7 @@ tags:
   - Metalearning
 aliases:
   - Ultradian Rhythms
-publish: "true"
+publish: true
 ---
 
 ![](https://substackcdn.com/image/fetch/$s_!k_o1!,w_840,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc96a827b-f9b0-4ff5-9f41-aa9bc705bebc_1080x1080.jpeg)

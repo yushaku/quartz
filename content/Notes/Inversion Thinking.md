@@ -6,7 +6,7 @@ tags:
 sources: https://jamesclear.com/inversion
 aliases:
   - Tư duy ngược
-publish: "true"
+publish: true
 ---
 
 > [!NOTE]
