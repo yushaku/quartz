@@ -2,13 +2,14 @@
 banner: https://www.vectorsolutions.com/wp-content/uploads/2020/10/systems-thinking-b-1200-x-628-648x339.png
 parents:
   - "[[Metalearning.canvas]]"
+alioas: Tư duy hệ thống
 tags:
   - Metalearning
 publish: true
 ---
 
 > [!NOTE]
-> **Systems Thinking** (Tư duy hệ thống) là cách nhìn vấn đề theo **toàn bộ hệ thống** thay vì từng thành phần rời rạc: chú trọng vào các mối liên hệ, vòng phản hồi và hành vi nổi sinh (emergent behavior) thay vì nhân-quả tuyến tính đơn giản.
+> **Systems Thinking** là cách nhìn vấn đề theo **toàn bộ hệ thống** thay vì từng thành phần rời rạc: chú trọng vào các mối liên hệ, vòng phản hồi và hành vi nổi sinh (emergent behavior) thay vì nhân-quả tuyến tính đơn giản.
 
 ![](https://www.vectorsolutions.com/wp-content/uploads/2020/10/systems-thinking-b-1200-x-628-648x339.png)
 
